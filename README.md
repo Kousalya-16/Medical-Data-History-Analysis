@@ -20,3 +20,6 @@ This project analyzes historical medical data to identify trends in patient demo
 ## Business Impact
 The insights from this analysis can support better hospital resource planning, improve patient care strategies, and enhance operational efficiency.
 
+## SQL Queries
+All SQL queries used in this analysis are available in:
+- `medical_data_analysis.sql`
